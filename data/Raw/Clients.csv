@@ -1,0 +1,11 @@
+ID CLIENTE,SUCURSAL,CIUDAD,FECHA INGRESO
+1,Sucursal_A,Bogotá,2023-01-15
+2,Sucursal_B,Medellín,10/02/2023
+3,Sucursal_C,Cali,2023-03-20
+4,Sucursal_A,Barranquilla,2023-04-05
+5,Sucursal_B,Medellín,25/05/2023
+6,Sucursal_C,Cartagena,2023-06-12
+7,Sucursal_A,Bogotá,2023-07-18
+8,Sucursal_B,Cali,2023-08-23
+9,Sucursal_C,Barranquilla,2023-09-30
+10,Sucursal_A,Medellín,15/10/2023
